@@ -1,0 +1,237 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    background-color: rgb(34, 34, 34);
+    color: white;
+}
+
+/*  шапка  */
+header {
+    background-color: rgb(34, 34, 34);
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.headerInner {
+    display: flex;
+    justify-content: space-between;
+    padding:0 10%;
+}
+
+img {
+    width: 300px;
+    height: 100px;
+}
+
+img:hover {
+    width: 600px;
+    height: 206px;
+}
+
+.name {
+    font-size: 48px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+nav {
+    width: 30%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: rgb(0, 247, 255)
+}
+
+a:active {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+/*  main  */
+.game {
+    width: 100%;
+    height: 100vh;
+    background: url(images/avtor-ovbelov-shutterstock___main_____shutterstock_1194592450.xso93ouf2kts.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button {
+
+}
+
+.link {
+
+}
+
+.text {
+    width: 100wv;
+    height: 40vh;
+    background-color: rgb(34, 34, 34);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+.movie {
+    width: 100%;
+    height: 100vh;
+    background: url(images/lest1.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mart {
+    width: 100%;
+    height: 100vh;
+    background: url(images/91hj2f2ndcsgk8ggkogsgk0os.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.site {
+    width: 100%;
+    height: 100vh;
+    background: url(images/photo1jpg.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sabz {
+    width: 100%;
+    height: 100vh;
+    background: url(images/Alferaki_Palace_edit.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kilka {
+    width: 100%;
+    height: 100vh;
+    background: url(images/Памятник_Петру_I._Таганрог.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bulka {
+    width: 100%;
+    height: 100vh;
+    background: url(images/Foto-6-Korolev-i-Gagarin-pered-korp.A-TTI-JuFU-e1681316974859.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kakula {
+    width: 100%;
+    height: 100vh;
+    background: url(images/2023.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/*  подвал  */
+.footerInner {
+    padding:50px 10%;
+    color: #fff;
+}
+
+
+.game {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.movie {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.mart {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.site {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.sabz {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.kilka {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bulka {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.kakula {
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+
+
+
+
+
+.button{
+ width: 300px;
+ height: 120px;
+ background-color: rgb(34, 34, 34);
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+
+
+
+
+
+
